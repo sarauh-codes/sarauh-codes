@@ -17,6 +17,7 @@ Currently interning at FGV Prodata, where I’m gaining hands-on experience enha
 * 🤖 Exploring AI and machine learning through projects such as ChefGPT
 * 📚 Certified in Project Management and Data Analytics through Coursera
 * 🌱 Always learning, experimenting, and building something new
+* 🏎️ F1 fan — race weekends are my kind of weekends!
 
 ⸻
 
