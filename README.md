@@ -71,6 +71,7 @@ Technologies: Python, Flask, HTML, CSS, JavaScript, Flutter, Dart, scikit-learn,
 An e-commerce application developed as part of my software engineering coursework, focusing on online shopping functionality and application development.
 
 Technologies: .NET, ASP.NET, Visual Basic, SQL
+Repository: [View source code on GitHub](https://github.com/sarauh-codes/chefgpt-overall)
 
 📅 Event Management System
 
