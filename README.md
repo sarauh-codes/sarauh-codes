@@ -117,6 +117,7 @@ IT Intern — UDA Holdings Berhad
 
 📜 Certifications
 
+* Developing LLM Applications with LangChain -DataCamp
 * Project Management — Coursera
 * Data Analytics — Coursera
 
